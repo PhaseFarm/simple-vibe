@@ -1,1 +1,3 @@
-# interpreter
+# simple-vibe 
+
+Minimalistic lisp interpreter
